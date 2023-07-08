@@ -1,3 +1,5 @@
+// Zig Version:        0.11.0-dev.3944+2e424e019
+
 const std = @import("std");
 
 const package_name = "sig";
